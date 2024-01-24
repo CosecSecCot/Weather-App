@@ -1,4 +1,4 @@
-const APIKEY = '7f40ba42b15fd203179862a120567982';
+const APIKEY = ''; // Enter your openweathermap APIKEY here
 
 let searched_location = document.getElementById('location');
 let location_name = document.getElementById('location-name');
